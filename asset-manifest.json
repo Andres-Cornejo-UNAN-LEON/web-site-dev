@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0466e49d.css",
+    "main.js": "/static/js/main.0a275c94.js",
+    "static/media/Tuerca.svg": "/static/media/Tuerca.a71a996b096824ad2f77545bea862f5e.svg",
+    "static/media/Logo.svg": "/static/media/Logo.8224f92ce4ffc7ed1eecfaeb7460423f.svg",
+    "index.html": "/index.html",
+    "main.0466e49d.css.map": "/static/css/main.0466e49d.css.map",
+    "main.0a275c94.js.map": "/static/js/main.0a275c94.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0466e49d.css",
+    "static/js/main.0a275c94.js"
+  ]
+}
